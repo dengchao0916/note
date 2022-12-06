@@ -1,0 +1,11 @@
+{
+  "translucency": false,
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "",
+  "textFontFamily": "Monaco",
+  "accentColor": "",
+  "nativeMenus": true,
+  "showViewHeader": true,
+  "baseFontSize": 15
+}

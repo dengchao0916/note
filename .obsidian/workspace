@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "7e1965ba76df3c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "db1cfb5ae9023bee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "考试笔记/操作系统基本原理.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65bf3371c4cf5901",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1d452c12681d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afce1c13cb27eb09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2624486ffa8fddc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92463ca92b443784",
+    "type": "split",
+    "children": [
+      {
+        "id": "3740c3bd073c6ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88fd63f856fdb0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考试笔记/操作系统基本原理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "195bef60b593e894",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考试笔记/操作系统基本原理.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a84cc98456caea26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "acb8a57ffbf6ecd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考试笔记/操作系统基本原理.md"
+              }
+            }
+          },
+          {
+            "id": "a68935b7b4337a76",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db1cfb5ae9023bee",
+  "lastOpenFiles": [
+    "考试笔记/操作系统基本原理.md",
+    "通用技能/MarkDown语法.md",
+    "考试笔记/计算机组成与体系结构.md",
+    "通用技能/[.md",
+    "考试笔记/中级软件设计师.md",
+    "中级软件设计师 @{2022-11-05}.md",
+    "Plan.md",
+    "考试笔记/attachments/主机.jpg",
+    "考试笔记/attachments/FLynn分类法.jpg",
+    "考试笔记/attachments/CISC与RISC.jpg"
+  ]
+}

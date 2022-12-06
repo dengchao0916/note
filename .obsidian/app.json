@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./附件",
+  "communityPluginSortOrder": "download",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "rightToLeft": false
+}
